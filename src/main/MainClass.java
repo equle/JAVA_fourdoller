@@ -12,7 +12,7 @@ public class MainClass {
 		fourClass fc = new fourClass();
 		
 		
-		System.out.println("사달라(사칙연산의 달인 라(?))");
+		System.out.println("사달라(사칙연산의 달인)");
 		System.out.println();
 		
 		for(;;) {
