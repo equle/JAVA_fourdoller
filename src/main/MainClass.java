@@ -9,7 +9,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		
 		MenuClass mc = new MenuClass();
-		fourClass fc = new fourClass();
+		FourClass fc = new FourClass();
 		
 		
 		System.out.println("사달라(사칙연산의 달인)");

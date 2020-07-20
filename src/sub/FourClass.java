@@ -3,7 +3,7 @@ package sub;
 import java.util.Random;
 import java.util.Scanner;
 
-public class fourClass {
+public class FourClass{
 	
 	Scanner scan = new Scanner(System.in);
 	
