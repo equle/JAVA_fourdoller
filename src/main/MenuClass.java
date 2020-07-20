@@ -48,7 +48,7 @@ public class MenuClass {
 	
 	//문제 보내기
 	public void switchmenu(int i) {
-		fourClass fc = new fourClass();
+		FourClass fc = new FourClass();
 		System.out.println();
 		switch (i) {
 		
